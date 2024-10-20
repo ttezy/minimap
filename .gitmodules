@@ -8,3 +8,6 @@
 	path = server/web
 	url = https://github.com/tignioj/minimap-gui.git
 	branch = flask-deploy
+[submodule "planner"]
+	path = planner
+	url = https://github.com/ttezy/genshin_navigation.git
